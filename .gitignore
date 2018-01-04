@@ -1,0 +1,25 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+
+#data
+bitbucket
+ssh_config
+stash
+*.log
+
+# dependencies
+node_modules
+.idea
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+yarn-error.log
+.vscode
